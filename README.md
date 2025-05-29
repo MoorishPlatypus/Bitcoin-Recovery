@@ -147,6 +147,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: Check our comprehensive guides in the `docs/` folder
 - **Issues**: Report bugs or request features via GitHub Issues
 - **Discussions**: Join our community discussions
+## 🙏 Donations
+If you'd like to support development:
+
+Bitcoin: 17ospCx6MbNQfqETd1UjAQQSus8ENHXgnh
 
 ## 🔗 Related Projects
 
