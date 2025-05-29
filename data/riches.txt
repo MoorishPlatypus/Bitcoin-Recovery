@@ -1,0 +1,30 @@
+# Bitcoin Rich Addresses Database
+# Add Bitcoin addresses with positive balances here
+# One address per line, comments start with #
+
+# Example addresses (these are real addresses with balances)
+1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ
+1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF
+bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy
+bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6
+
+# Add more addresses below:
+# You can find rich Bitcoin addresses from various sources:
+# - Blockchain explorers (blockchain.info, blockchair.com)
+# - Rich lists and statistics websites
+# - Known exchange addresses
+# - Whale watching services
+
+# Legacy addresses (start with 1)
+1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+1LdRcdxfbSnmCYYNdeYpUnztiYzVfBEQeC
+1AC4fMwgY8j9onSbXEWeH6Zan8QGMSdmtA
+
+# SegWit addresses (start with bc1)
+bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h
+bc1qa24tsgchvuxsaccp7vke7w6w99c2kqaud68ead
+
+# Nested SegWit addresses (start with 3)
+3Kzh9qAqVWQhEsfQz7zEQL1EuSx5tyNLNS
+3LYJfcfHPXYJreMsASk2jkn69LWEYKzexb

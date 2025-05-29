@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-05-29T05:18:48.412Z",
+  "testMnemonic": "shift fringe sorry true tooth lucky trick scrub write neglect jungle genuine",
+  "knownMnemonicTest": {
+    "mnemonic": "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about",
+    "expectedAddress": "1LqBGSKuX5yYUonjxT5qGfpUsXKYYWeabA",
+    "generatedAddress": "1LqBGSKuX5yYUonjxT5qGfpUsXKYYWeabA",
+    "match": true
+  },
+  "performance": {
+    "generatedCount": 100,
+    "duration": 1.199,
+    "rate": 83
+  },
+  "sampleAddresses": [
+    "1EhGzPrgNoxGcoH8KvLzUGhUgcAvZotaEV",
+    "1Cm3fGbBhQMkcdRr5mBRK47TadeAjYFLEY",
+    "1gPUD8UMEHxJNYfCJnAxY6cjkor8gF14T",
+    "bc1qe5q0jsmncef5ljc4a8j4pegvn0k5pyryl8vwqu",
+    "bc1q2qluydth6wgax5lrcs9ew9nw9ly72tpz8s347m"
+  ]
+}

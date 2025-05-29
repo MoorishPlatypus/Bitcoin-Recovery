@@ -1,0 +1,15 @@
+# Bitcoin Mnemonic Hunter - Proxy List
+# Format: ip:port:username:password
+# Example: 154.36.110.199:6853:acstdtpb:70fjieohpgdp
+
+# Add your proxies below (one per line)
+# Remove the # symbol to activate a proxy
+
+# Example proxies (replace with your actual proxies):
+# 154.36.110.199:6853:acstdtpb:70fjieohpgdp
+# 192.168.1.100:8080:user1:pass1
+# 10.0.0.50:3128:user2:pass2
+
+# You can also use proxies without authentication:
+# 192.168.1.200:8080
+# 10.0.0.100:3128
